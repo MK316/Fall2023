@@ -11,7 +11,7 @@
 | Wednesdays <br> (4-7pm) & <br> Thursday <br> (10-1pm) | [Special Topics in English Linguistics]() | UG <br> (4th Year)  | 3 | A focused examination of phonological and morphological patterns in English, designed to train English Education majors in the detailed analysis of sound and word structures.|  
 | Tuesdays <br> (7-8pm) & Thursdays <br> (8-10pm)  | [English Phonology & English Education]() | Graudates (MA)   | 3   | A comprehensive study combining advanced phonological theories with practical pedagogical approaches to teaching English pronunciation and sound systems. |    
 
-## ☑️ Supplement materials (shared across courses)
+## ☑️ Supplementary materials (shared across courses)
 
 |   |Keywords|Python notebook|Description|Referecnes|
 |---|---|---|---|---|
