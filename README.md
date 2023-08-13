@@ -15,5 +15,5 @@
 
 |   |Keywords|Python notebook|Description|Referecnes|
 |---|---|---|---|---|
-| 1  | Text-to-Video, AI | [Code page](https://github.com/MK316/Class_Spring2022/blob/main/Animated_Video_with_AI.ipynb)  | Creating Animated Video with AI  | [Youtube 
+| 1  | Text-to-Speech | Code page  | Converting text to speech  | |
 
