@@ -8,4 +8,9 @@
 Description: This page features Python code that converts text into speech (Text-To-Speech). It supports multiple languages, including Korean, English, and Russian. Users can input text, and the code will produce the corresponding speech. Additionally, the page includes Gradio application code, enabling learners to test the app on various devices such as phones, tablets, and computers. To facilitate access, there's also a section dedicated to generating QR codes.
   
 **2. Sound and spelling using Coding:** [Code link](https://github.com/MK316/Fall2023/blob/main/sound_spelling.ipynb)
+Description: Using TTS, we can experience irregularity of English sound-spelling system. Listen a word and guess its spelling. It also has a multi-language app.
+
+
+**3. QR code:** [Code link](https://github.com/MK316/Fall2023/blob/main/Engedu/QRcode.ipynb)
+Description: With a link provided by the user, the code will generate a QR code.
 
