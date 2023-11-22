@@ -10,3 +10,7 @@ A fisherman caught a golden fish. The fish promised riches if released. Tempted,
 # 3. The Sharing Squirrels
 
 Two squirrels found one acorn. They argued over it until a wise elder said, "Share and grow together." They planted the acorn. Years later, a mighty oak stood there, providing endless acorns for all. Sharing led to abundance.
+
+# 4. The Patient Gardener
+
+In a vibrant garden, an impatient gardener always uprooted plants to check their growth. A wise neighbor advised, "Patience yields better harvests." Heeding the advice, the gardener waited patiently. Seasons later, his garden flourished magnificently, teaching him the value of patience.
