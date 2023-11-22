@@ -5,7 +5,7 @@
 # In-class activity for Nov. 24
 <Group activity>
   
-+ Transcription reading: practice  
++ Transcription reading: practice with handouts 
 + Recognition application [code link](https://github.com/MK316/Myapps/blob/main/SpeakingApp.ipynb)
 + Record reading (on your device using microphone)
 + Copy the recognized text from the app > Past it on Google sheet [Link](https://docs.google.com/spreadsheets/d/12_hgfEpoYFlBbq-FHyMtpnv_bPuaxL-_c3jiyemffoU/edit#gid=1549122206)
