@@ -12,4 +12,3 @@
 
 <Result to check>
 + Inclass activity (asof 11/24) [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
-+
