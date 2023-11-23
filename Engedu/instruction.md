@@ -2,7 +2,7 @@
 
 Creating rubrics for analyzing a learner's pronunciation is a great way to provide structured and objective feedback.  
 Based on the aspects of pronunciation we have discussed, the rubrics can be divided into two main categories:  
-Segmental and Suprasegmental. Here's how you can structure it:  
+Segmental and Suprasegmental. Here's an example of how you can structure it:  
 
 ### Pronunciation Analysis Rubrics
 
@@ -11,7 +11,7 @@ Segmental and Suprasegmental. Here's how you can structure it:
 These are related to individual sounds (consonants and vowels).
 
 **Consonants:**
-- **Accuracy of individual sounds 
+- **Accuracy of individual sounds** 
    - **Proper Tapping:** 
      - **5 - Excellent:** Consistently uses correct tapping for relevant consonants.
      - **4 - Good:** Frequently uses correct tapping but with occasional inaccuracies.
