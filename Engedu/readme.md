@@ -29,7 +29,7 @@ In-class activity for Nov. 24
   
 + Inclass activity [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
 
-## 📗 [3] Final project
+## 📗 [3] Final project (Nov. 21)
 
 ||Keywords|Description|Codes|Download Link|
 |--|--|--|--|--|
