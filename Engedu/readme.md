@@ -1,6 +1,6 @@
 # Phonology and English Education (Fall 2023)
 
-## 📗 Course material (supplementary) 
+## 📗 [1] Course material (supplementary) 
 
 **1. Generating speech from text using gTTS:** 🌳 [Code Link](https://github.com/MK316/Fall2023/blob/main/Engedu/gtts.ipynb)
 (Multi-languages: korean, English, and Russian)
