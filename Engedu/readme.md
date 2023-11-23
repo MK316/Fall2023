@@ -14,7 +14,7 @@ Description: Using TTS, we can experience irregularity of English sound-spelling
 **3. QR code:** [Code link](https://github.com/MK316/Fall2023/blob/main/Engedu/QRcode.ipynb)
 Description: With a link provided by the user, the code will generate a QR code.
 
-# 🌺 Rules and pronunciation (transcription)
+## 🌺 [2] Rules and pronunciation (transcription)
 
 In-class activity for Nov. 24
 
@@ -29,7 +29,7 @@ In-class activity for Nov. 24
   
 + Inclass activity [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
 
-# 📗Final project
+## [3] 📗Final project
 
 ||Keywords|Description|Codes|Download Link|
 |--|--|--|--|--|
