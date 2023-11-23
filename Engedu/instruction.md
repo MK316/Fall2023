@@ -4,13 +4,13 @@ Creating rubrics for analyzing a learner's pronunciation is a great way to provi
 Based on the aspects of pronunciation we have discussed, the rubrics can be divided into two main categories:  
 Segmental and Suprasegmental. Here's an example of how you can structure it:  
 
-### Pronunciation Analysis Rubrics
+## I. Pronunciation Analysis Rubrics
 
 #### 1. Segmental Features
 
 These are related to individual sounds (consonants and vowels).
 
-**Consonants:**
+**1) Segmental features**
 - **Accuracy of individual sounds**
 - **Consonant rules:**  
    - **Proper Tapping:** 
@@ -34,9 +34,9 @@ These are related to individual sounds (consonants and vowels).
      - **2 - Needs Improvement:** Struggles with clusters, frequent omissions or substitutions.
      - **1 - Poor:** Unable to pronounce clusters, significantly impacts intelligibility.
 
-**(Continue) You can add more rules that can analyze pronunciation properties of your learners**  
+(Continue) You can add more rules that can analyze pronunciation properties of your learners**  
 
-#### 2. Suprasegmental Features
+#### 2) Suprasegmental Features
 
 These relate to features such as stress, rhythm, and intonation.
 
@@ -56,7 +56,8 @@ These relate to features such as stress, rhythm, and intonation.
    - 
 **(Continue) You can add more rules that can analyze pronunciation properties of your learners**  
 ---
-### 3. Feeback
+
+## II. Feeback
 
 Providing feedback based on pronunciation analysis is crucial for effective language learning. The key is to offer learner-customized feedback, focusing on strategies tailored to the specific learner's characteristics or habits, and ensuring that the feedback is easy to understand. Here are some guidelines on how to give such feedback:
 
@@ -89,7 +90,8 @@ Providing feedback based on pronunciation analysis is crucial for effective lang
 
 Remember, the goal of feedback is not only to inform the learner of their pronunciation issues but also to guide and motivate them towards improvement. Balancing constructive criticism with encouragement is key to effective language teaching.
 
-### 4. Notes
+## III. Notes
+
 - Each category and sub-category should be rated based on the learner's recorded speech.
 - The scores can then be added up to give a comprehensive view of their pronunciation skills, with specific areas highlighted for improvement. 
 - This structured approach makes it easier for learners to understand their strengths and weaknesses in pronunciation.
