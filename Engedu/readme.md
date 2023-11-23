@@ -29,4 +29,9 @@ In-class activity for Nov. 24
   
 + Inclass activity [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
 
+# Final project
+
+||Keywords|Description|Codes|Download Link|
+|--|--|--|--|--|
+|01|Native speech|TTS generated female speech|[Codes](https://github.com/MK316/Fall2023/blob/main/18Sentences.ipynb)||
 
