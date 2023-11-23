@@ -37,5 +37,6 @@ In-class activity for Nov. 24
 |01|Native speech|TTS generated female speech|[Codes](https://github.com/MK316/Fall2023/blob/main/18Sentences.ipynb)|💾[File](https://github.com/MK316/Fall2023/raw/main/Engedu/Sentence18.zip)|
 |02|Learners data| 4 Females||💾[F1](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Female01_mono.wav), [F2](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Female02_mono.wav), [F3](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Female03_mono.wav), [F4](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Female04_mono.wav)|
 |03|Learners data| 4 Males||💾[M1](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male01_mono.wav), [M2](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male02_mono.wav), [M3](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male03_mono.wav), [M4](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male04_mono.wav)|
+|04|Software| Speech analysis tool: PRAAT (Windows, Mac)||[Download link](https://www.fon.hum.uva.nl/praat/)|
 
 
