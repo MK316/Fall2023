@@ -33,5 +33,5 @@ In-class activity for Nov. 24
 
 ||Keywords|Description|Codes|Download Link|
 |--|--|--|--|--|
-|01|Native speech|TTS generated female speech|[Codes](https://github.com/MK316/Fall2023/blob/main/18Sentences.ipynb)||
+|01|Native speech|TTS generated female speech|[Codes](https://github.com/MK316/Fall2023/blob/main/18Sentences.ipynb)|💾[File](https://github.com/MK316/Fall2023/raw/main/Engedu/Sentence18.zip)|
 
