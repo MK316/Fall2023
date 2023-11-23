@@ -53,7 +53,7 @@ These relate to features such as stress, rhythm, and intonation.
    - **3 - Satisfactory:** Shows some understanding but often sounds monotone or unnatural.
    - **2 - Needs Improvement:** Limited use of intonation/rhythm, impacting fluency and clarity.
    - **1 - Poor:** Incorrect or no use of intonation and rhythm, making speech hard to follow.
-   - 
+      
 **(Continue) You can add more rules that can analyze pronunciation properties of your learners**  
 ---
 
