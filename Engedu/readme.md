@@ -28,7 +28,8 @@ In-class activity for Nov. 24
 <Result to check>
   
 + Inclass activity [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
-+ inclass activity [Text-to-Speech]((https://github.com/MK316/Fall2023/blob/main/TTS_APP.ipynb))
++ inclass activity [Text-to-Speech]((https://github.com/MK316/Fall2023/blob/main/TTS_APP.ipynb)
+  
 ## 📗 [3] Final project (Dec. 21)
 
 ||Keywords|Description|Codes|Download Link|
