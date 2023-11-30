@@ -2,6 +2,9 @@
 
 + Transcription [Code page](https://github.com/MK316/Fall2023/blob/main/Transcription.ipynb)
 
+# In-class activity for Nov.30
+[Code link combined](https://github.com/MK316/Fall2023/blob/main/Phonetics_TranscriptionRead.ipynb)
+
 # In-class activity for Nov. 24
 <Group activity>
   
