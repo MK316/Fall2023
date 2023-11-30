@@ -5,6 +5,8 @@
 # In-class activity for Nov.30
 [Code link combined](https://github.com/MK316/Fall2023/blob/main/Phonetics_TranscriptionRead.ipynb)
 
+[TTS](https://github.com/MK316/Fall2023/blob/main/TTS_APP.ipynb)
+
 # In-class activity for Nov. 24
 <Group activity>
   
