@@ -43,4 +43,11 @@ In-class activity for Nov. 30
 |03|Learners data| 4 Males||💾[M1](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male01_mono.wav), [M2](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male02_mono.wav), [M3](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male03_mono.wav), [M4](https://github.com/MK316/Fall2023/raw/main/Engedu/data/Male04_mono.wav)|
 |04|Software| Speech analysis tool: PRAAT (Windows, Mac)||🔗[Download link](https://www.fon.hum.uva.nl/praat/)|
 
+### Praat TextGrid (Demo in class)
+
+1. Speech file and the textgrid file should have the same filename.
+2. Open speech file with the textgrid on Praat
+3. Boundary marking
+4. Before closing Praat, save Textgrid file.
+
 
