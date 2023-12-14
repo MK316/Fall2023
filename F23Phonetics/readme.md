@@ -15,6 +15,10 @@
 + Access to the Recognition App from the QR code > Record reading (on your device using microphone)
 + Copy the recognized text from the app > Past it on Google sheet [Link](https://docs.google.com/spreadsheets/d/12_hgfEpoYFlBbq-FHyMtpnv_bPuaxL-_c3jiyemffoU/edit#gid=1549122206)
 
+# In-class activity for Dec. 14
+
++ Intonation contour [link](https://github.com/MK316/Myapps/blob/main/Intonation1213.ipynb) 
+
 <Result to check>
   
 + Inclass activity [Code page](https://github.com/MK316/Fall2023/blob/main/TranscriptionActivity01.ipynb)
